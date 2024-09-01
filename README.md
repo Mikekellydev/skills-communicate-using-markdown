@@ -65,6 +65,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+# If any step does not work, first check the instructions and try again. Read carefully!
+## This is my encouragement to all who will try this tutorial!
 <footer>
 
 <!--
